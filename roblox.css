@@ -498,7 +498,7 @@
         color: var(--border) !important;
     }
     .dark-theme .notification,
-    .dark-theme .notification-blue,
+    .dark-theme .notification-blue,Update roblox.css
     .dark-theme .notification-red {
         background-color: var(--accent) !important;
         color: var(--border) !important;
@@ -918,72 +918,5 @@
     .dark-theme .icon-robux-white {
         filter: brightness(0) saturate(100%) invert(83%) sepia(16%)
             saturate(438%) hue-rotate(178deg) brightness(87%) contrast(84%) !important;
-    }
-}
-@-moz-document domain("classroom.google.com") {
-    body {
-        color: #a5b6cf !important;
-    }
-    .asQXV {
-        color: #a5b6cf !important;
-    }
-    .joJglb {
-        background: var(--second-background) !important;
-        border-bottom: 0.0625rem solid #0f111a !important;
-    }
-    .xSP5ic,
-    .xSP5ic.yHy1rc {
-        color: #a5b6cf !important;
-    }
-    .gb_Na svg,
-    .gb_Rc svg,
-    .gb_dd .gb_ld,
-    .gb_3c .gb_ld {
-        color: #a5b6cf !important;
-    }
-    .VfPpkd-Bz112c-LgbsSe svg,
-    .VfPpkd-Bz112c-LgbsSe img {
-        color: #a5b6cf !important;
-    }
-    .IqBfM {
-        background: var(--background) !important;
-    }
-    .Aopndd {
-        background-color: var(--background) !important;
-        border: 0.0625rem solid #0f111a !important;
-    }
-    .oBSRLe {
-        color: #a5b6cf !important;
-    }
-    .Tabkde .OX4Vcb {
-        background-color: var(--second-background) !important;
-    }
-    .Tabkde {
-        border-right: 0.0625rem solid #30363d !important;
-    }
-    .kYtXye .VBEdtc-Wvd9Cc:hover,
-    .kYtXye.MymH0d:hover .VBEdtc-Wvd9Cc,
-    .kYtXye .MymH0d:hover .VBEdtc-Wvd9Cc {
-        color: var(--accent) !important;
-    }
-    .apFsO.onkcGd,
-    .apFsO.onkcGd:visited {
-        color: var(--accent) !important;
-    }
-    .SZ0kZe {
-        border-top: 0.0625rem solid #0f111a !important;
-    }
-    .A6dC2c,
-    .saYe1e {
-        color: var(--accent) !important;
-    }
-    .UvHKof .VBEdtc-Wvd9Cc:hover,
-    .UvHKof.MymH0d:hover .VBEdtc-Wvd9Cc,
-    .UvHKof .MymH0d:hover .VBEdtc-Wvd9Cc {
-        color: var(--accent) !important;
-    }
-    .mwJvDe .KEDCCd {
-        background: var(--second-background) !important;
-        border-bottom: 0.0625rem solid #0f111a !important;
     }
 }
